@@ -10,3 +10,13 @@
 - Hyperparameterization.
 - Data Pre-Processing, Data-Augmentation.
 - Test result, classification matrix, accurracy.
+
+## Result
+- **classification :** 92-98% accurate
+- **segmentation :** upto 95% accurate
+- **sample result**
+
+![segmentation result](https://github.com/BrolyDBZ/covid-severity-detection/blob/main/covid%20severity%20detection/__pycache__/Screenshot%202022-04-10%20003803.png)
+
+                            input image           output           predicted output
+
