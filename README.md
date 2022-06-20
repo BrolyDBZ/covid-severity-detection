@@ -18,3 +18,7 @@
 
 ![segmentation result](https://github.com/BrolyDBZ/covid-severity-detection/blob/main/covid%20severity%20detection/result.jpg)
 
+## Checkpoint and Data Link
+- checkpoint- https://drive.google.com/drive/folders/1qgkBOQNL3Nyq632q81EYS4RNviv0QyMi?usp=sharing
+- Data- https://drive.google.com/drive/folders/17GninSccoalgHP0D3wE8QPu9vGUkLhJz?usp=sharing
+
